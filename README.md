@@ -1,2 +1,2 @@
-# CoMe_CaFe — Concordanciador Melo Cavalcante Ferreira
+# CoMe_CaFe - Concordanciador Melo Cavalcante Ferreira
 CoMe_CaFe — Concordanciador Melo Cavalcante Ferreira — é um concordanciador em Python desenvolvido por Eduardo de Melo Cavalcante e Guilherme Ferreira de Oliveira, estudantes de Línguas Estrangeiras Aplicadas ao Multilinguismo e à Sociedade da Informação da Universidade de Brasília (UnB), como trabalho final da disciplina de Língua e Programação.
