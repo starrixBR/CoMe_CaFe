@@ -125,6 +125,6 @@ Ferramentas disponíveis:
                 break
         elif event.name == 'esc':
             print("Programa está encerrando...")
-            time.sleep(4)
+            time.sleep(2)
             sys.exit()
 
